@@ -38,30 +38,21 @@ main {
   color: #926239;
   background-color: white;
 }
-/* .third-section {
-  
-} */
-.third-section-first {
+.third-sections {
   box-sizing: border-box;
-  width: calc(100%/3);
+  width: calc(100% / 3);
   padding: 20px;
   display: inline-block;
+}
+.third-section-first {
   color: white;
   background-color: #926239;
 }
 .third-section-second {
-  box-sizing: border-box;
-  width: calc(100%/3);
-  padding: 20px;
-  display: inline-block;
   color: #926239;
   background-color: white;
 }
 .third-section-third {
-  box-sizing: border-box;
-  width: calc(100%/3);
-  padding: 20px;
-  display: inline-block;
   color: white;
   background-color: #926239;
 }
